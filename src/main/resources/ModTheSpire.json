@@ -1,0 +1,10 @@
+{
+  "modid": "map_debug_mod",
+  "name": "Map Debug Mod",
+  "author_list": ["MMagicala"],
+  "description": "Show the node coordinates on the map.",
+  "version": "1.0.0",
+  "sts_version": "01-14-2020",
+  "mts_version": "3.15.0",
+  "dependencies": ["basemod"]
+}
